@@ -6,5 +6,12 @@ A custom CSL (Citation Style Language) style for Zotero that formats citations a
 ## Installation
 
 1. Download the [`sci-china-tech-sci.csl`](sci-china-tech-sci.csl) file
-2. In Zotero, go to `Tools` → `Citation Styles` → `+` (Add Style)
+2. In Zotero, go to `Edit` → `Settings`→ `Cite` → `+` (Add Style)
 3. Select the downloaded `.csl` file
+
+## Verification
+
+This style has been tested with:
+- Zotero 7.0.15
+- Zotero Word plugin
+- Microsoft Word (Windows)
